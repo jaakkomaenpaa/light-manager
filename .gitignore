@@ -1,0 +1,8 @@
+config.txt
+notes.txt
+
+.clang-format
+
+.vscode/
+
+*.exe
