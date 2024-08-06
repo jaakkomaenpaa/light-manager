@@ -84,7 +84,7 @@ void wizSetScene(WizLight* light, int scene[3]) {
 
     sprintf(command,
             "{\"method\":\"setPilot\",\"params\":{\"r\":%d, \"g\":%d, "
-            "\"b\":%d, \"w\": 0, \"c\": 10}}",
+            "\"b\":%d, \"w\": 5, \"c\": 5}}",
             r, g, b);
 
     wizSendCommand(light, command);

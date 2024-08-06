@@ -52,6 +52,9 @@ int main(void) {
             printf("tuya <on|off>   turn tuya bulb on/off\n");
             printf("wiz <on|off>    turn wiz bulb on/off\n");
             printf("both <on|off>   turn both bulbs on/off\n");
+            printf("tuya scene <i>  set color for tuya bulb\n");
+            printf("wiz scene <i>   set color for wiz bulb\n");
+            printf("both scene <i>  set color for both bulbs\n");
             printf("\n");
 
         } else if (equalsEither(command, TUYA_ON, TUYA_ON_SHORT)) {
