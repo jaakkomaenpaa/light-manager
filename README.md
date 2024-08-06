@@ -30,9 +30,9 @@ Shorthand commands inside braces.
   - Change status of the WiZ light
 - **both on|off (bn|bf)**
   - Change status of both lights
-- **tuya scene 1|2.. (ts1|ts2..)**
+- **tuya scene 1|2.. (ts 1|2..)**
   - Set scene for WiZ light
-- **wiz scene 1|2.. (ws1|ws2..)**
+- **wiz scene 1|2.. (ws 1|2..)**
   - Set scene for WiZ light
-- **both scene 1|2.. (bs1|bs2..)**
+- **both scene 1|2.. (bs 1|2..)**
   - Set scene for both lights
