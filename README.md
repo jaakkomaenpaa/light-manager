@@ -4,6 +4,8 @@ A command line tool to manage WiZ and Tuya smart bulbs on my desk. Made for pers
 
 ## Setting up
 
+Gcc is required. Note that this has only been tested on windows.
+
 - Clone this repository
 - Rename config.txt.example -> config.txt and change its content to real data
   - WiZ IP address can be found on the WiZ mobile app
